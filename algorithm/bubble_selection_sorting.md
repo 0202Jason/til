@@ -10,4 +10,7 @@ def bubble_sort(a, N):
 
 ## 선택정렬 외워야함
 
+```python
+
+
 
