@@ -1,4 +1,4 @@
-# git and cli
+# git and cli 시험준비
 
 ### Cli
 
